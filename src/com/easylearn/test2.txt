@@ -1,0 +1,10 @@
+import java.io.*;
+import java.util.List;
+import java.util.Scanner;
+import java.util.stream.Collectors;
+import java.util.Function;
+
+public class Main {
+     System.out.println("Hello Brother");
+     // This is a text file
+Thank GOD
